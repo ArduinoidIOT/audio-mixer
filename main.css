@@ -1,0 +1,16 @@
+.container {
+  width: 95vw;
+  height: 80vh;
+  background-color: #e7e7e7;
+  display: flex;
+}
+.left {
+  width: 20%;
+}
+
+.line {
+  height: 100%;
+  width: 2px;
+  background-color: black;
+  position: relative;
+}
